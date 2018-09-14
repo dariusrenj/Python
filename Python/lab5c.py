@@ -154,4 +154,3 @@ if (user_created1 == 1):
     user_hero.default()
 if (user_created2 == 1):
     user_villian.default()
-    
